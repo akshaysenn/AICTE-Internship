@@ -133,7 +133,7 @@ Verifies if **MediaPipe** is correctly installed and working.
 
 For any queries, reach out at:  
 - Email: `theakshaysen.com`
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/akshaysenn)
+- LinkedIn: [Akshay Sain](https://www.linkedin.com/in/akshaysenn)
 
 ---
 
